@@ -8,7 +8,7 @@ The best way to predict the future is to create it.
 - 💪🏻 I've completed the Google Machine Learning Bootcamp course.
 - 📫 How to reach me: naring@knu.ac.kr
 - 😄 Pronouns: MLOps, Data analyst, Web Developer
-- ⚡ Skills: Python, Pandas, NumPy, Pytorch, Git, Linux, React.js, MySQL
+- ⚡ Skills: Python, Pandas, NumPy, Pytorch, Streamlit, Git, Linux, React.js, MySQL
 <!--
 **naringles/naringles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
