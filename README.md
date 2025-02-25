@@ -2,13 +2,13 @@
 
 The best way to predict the future is to create it.
 
-- 🔭 I’m currently studying on Naver Boostcamp CV Track.
-- 👨🏻‍🎓 I'm currently enrolled in the M.S. program at VILAB, Graduate School of Data Science, Kyungpook National University.
+- 👨🏻‍🎓 I graduated with an M.S. degree from VILAB, Graduate School of Data Science, Kyungpook National University.
 - 🌱 I'm currently researching in the fields of Computer Vision and Video Restoration.
-- 💪🏻 I've completed the Google Machine Learning Bootcamp course.
+- 🔭 I’ve completed the Naver Boostcamp 7th CV Track.
+- 💪🏻 I've completed the Google Machine Learning Bootcamp 2023 course.
 - 📫 How to reach me: naring@knu.ac.kr
-- 😄 Pronouns: MLOps, Data analyst, Web Developer
-- ⚡ Skills: Python, Pandas, NumPy, Pytorch, Streamlit, Git, Linux, React.js, MySQL
+- 😄 Pronouns: Deep learning Engineer, Data Scientist, React Web Developer
+- ⚡ Skills: Python, Pandas, NumPy, Pytorch, Git, Linux, React.js, MySQL
 <!--
 **naringles/naringles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
